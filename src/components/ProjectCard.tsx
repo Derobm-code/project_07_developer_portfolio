@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ArrowUp, ArrowUpRight } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import type { Project } from "../data/projects";
 
 export default function ProjectCard({ project }: { project: Project }) {
